@@ -1,0 +1,14 @@
+{
+  "itemGroup.foxgirl": "Фурритян",
+  "entity.foxgirl.fox_girl": "Фурритян",
+  "item.foxgirl.fox_girl_spawn_egg": "Яйцо призыва Фурритян",
+  "item.foxgirl.almond_water": "Миндальная вода",
+  "message.foxgirl.tamed": "Фурритян тебе доверяет!",
+  "message.foxgirl.hungry": "Твоя Фурритян голодна! Покорми её.",
+  "message.foxgirl.sit": "Она сидит и ждёт.",
+  "message.foxgirl.follow": "Она идёт за тобой.",
+  "message.foxgirl.no_dimension": "Измерение Закулисья не найдено.",
+  "message.foxgirl.apartment_built": "Квартира построена.",
+  "message.foxgirl.grabbed": "Она подхватила тебя и куда-то несёт...",
+  "message.foxgirl.delivered": "Ты у неё дома. Тебя положили отдыхать."
+}

@@ -1,0 +1,14 @@
+{
+  "itemGroup.foxgirl": "Furritian",
+  "entity.foxgirl.fox_girl": "Furritian",
+  "item.foxgirl.fox_girl_spawn_egg": "Furritian Spawn Egg",
+  "item.foxgirl.almond_water": "Almond Water",
+  "message.foxgirl.tamed": "Furritian trusts you now!",
+  "message.foxgirl.hungry": "Your Furritian is starving! Feed her.",
+  "message.foxgirl.sit": "She sits and waits.",
+  "message.foxgirl.follow": "She follows you.",
+  "message.foxgirl.no_dimension": "The Backrooms dimension was not found.",
+  "message.foxgirl.apartment_built": "The apartment is built.",
+  "message.foxgirl.grabbed": "She grabbed you and is carrying you somewhere...",
+  "message.foxgirl.delivered": "You are in her home. You were put down to rest."
+}
