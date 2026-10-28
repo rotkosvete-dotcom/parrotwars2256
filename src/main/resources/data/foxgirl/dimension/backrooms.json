@@ -1,0 +1,10 @@
+{
+  "type": "foxgirl:backrooms",
+  "generator": {
+    "type": "foxgirl:backrooms",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "foxgirl:backrooms"
+    }
+  }
+}
